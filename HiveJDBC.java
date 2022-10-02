@@ -6,7 +6,7 @@ import java.sql.Statement;
 public class HiveJDBC {
 
 	// Parameters
-	static String CONNECTION_URL = "<HIVE_JDBC_URL";
+	static String CONNECTION_URL = "<HIVE_JDBC_URL>"; // ex: jdbc:hive2://<host>:443/default;transportMode=http;httpPath=cliservice;UID=<your_username>;PWD=<your_password>;
 	static String QUERY = "<HIVE_QUERY>";
 
 	/**
