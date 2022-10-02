@@ -1,4 +1,5 @@
-## ImpalaJDBC.java - Test connection to Impala using Cloudera Impala JDBC driver
+## ImpalaJDBC.java
+### Test connection to Impala using Cloudera Impala JDBC driver
 
 Ensure JDK is installed on your computer. To verify, execute the below command in the terminal:
 ```
