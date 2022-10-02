@@ -1,4 +1,5 @@
-## HiveJDBC.java - Test connection to Hive using Cloudera Hive JDBC driver
+## HiveJDBC.java
+### Test connection to Hive using Cloudera Hive JDBC driver
 
 Ensure JDK is installed on your computer. To verify, execute the below command in the terminal:
 ```
