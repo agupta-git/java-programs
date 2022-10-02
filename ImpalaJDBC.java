@@ -17,9 +17,9 @@ public class ImpalaJDBC {
 	public static void main(String[] args) {
 		try {
 			// establish connection
-      String DRIVER_CLASS = "com.cloudera.impala.jdbc.Driver";
+			String DRIVER_CLASS = "com.cloudera.impala.jdbc.Driver";
 			Connection connection = null;
-      Class.forName(DRIVER_CLASS);
+			Class.forName(DRIVER_CLASS);
 			connection = DriverManager.getConnection(CONNECTION_URL);
 
 			// execute query
