@@ -1,17 +1,9 @@
 ## HiveJDBC.java
 ### Test connection to Hive using Cloudera Hive JDBC driver
+Hive JDBC Driver for Cloudera is available here - https://www.cloudera.com/downloads/connectors/hive/jdbc/.
 
-Ensure JDK is installed on your computer. To verify, execute the below command in the terminal:
-```
-javac -version
-```
-
-To compile this class, execute the following:
+Compile & Run:
 ```
 javac -cp .:./lib/HiveJDBC42.jar HiveJDBC.java
-```
-
-To run this class, execute the following:
-```
 java -cp .:./lib/HiveJDBC42.jar HiveJDBC
 ```
