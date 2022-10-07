@@ -1,6 +1,6 @@
 ## HiveJDBC.java
 ### Test connection to Hive using Cloudera Hive JDBC driver
-Hive JDBC Driver for Cloudera is available here - https://www.cloudera.com/downloads/connectors/hive/jdbc/.
+Hive JDBC Driver is available here - https://www.cloudera.com/downloads/connectors/hive/jdbc/.
 
 Compile & Run:
 ```
