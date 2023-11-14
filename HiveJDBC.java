@@ -1,3 +1,9 @@
+/**
+Hive JDBC Driver is available here - https://www.cloudera.com/downloads/connectors/hive/jdbc/
+Compile -- javac -cp .:./lib/HiveJDBC42.jar HiveJDBC.java
+Execute -- java -cp .:./lib/HiveJDBC42.jar HiveJDBC
+*/
+
 import java.sql.Connection;
 import java.sql.DriverManager;
 import java.sql.ResultSet;
