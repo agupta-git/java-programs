@@ -1,3 +1,9 @@
+/**
+Impala JDBC Driver is available here - https://www.cloudera.com/downloads/connectors/impala/jdbc
+Compile -- javac -cp .:./lib/ImpalaJDBC42.jar ImpalaJDBC.java
+Execute -- java -cp .:./lib/ImpalaJDBC42.jar ImpalaJDBC
+*/
+
 import java.sql.Connection;
 import java.sql.DriverManager;
 import java.sql.ResultSet;
